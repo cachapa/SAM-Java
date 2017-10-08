@@ -1,0 +1,13 @@
+# Generated files
+build
+maven
+*.apk
+
+# Android Studio local config
+local.properties
+.gradle
+.idea
+*.iml
+
+# MacOS garbage
+.DS_Store
